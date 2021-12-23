@@ -4,6 +4,6 @@ Problem Stament : Retrieves "Top Stories" from this parliament data RSS feed end
 
 Solution :
 
-** Import Python Libraries Like BeautifulSoup & urlopen
-** Run
+-- Import Python Libraries Like BeautifulSoup & urlopen 
+-- Run
 

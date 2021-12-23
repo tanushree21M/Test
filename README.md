@@ -4,7 +4,6 @@ Problem Stament : Retrieves "Top Stories" from this parliament data RSS feed end
 
 ### Solution :
 
-Import Python Libraries Like BeautifulSoup & urlopen.
-- Make Function when Pass The Data from - *MTECHVIRAL*
+- Import Python Libraries Like BeautifulSoup & urlopen.
 
 
